@@ -2,6 +2,10 @@
 
  Un exercice pour manipuler le DOM 
  
+ ![Imgur](https://i.imgur.com/s84Mho7.png)
+
+
+ 
  -----------
 
 
