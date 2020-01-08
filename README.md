@@ -1,5 +1,8 @@
- Etch a Sketch #titre
+ # Etch a Sketch
 
-Un exercice pour manipuler le DOM 
+ Un exercice pour manipuler le DOM 
+ 
+ -----------
+
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
