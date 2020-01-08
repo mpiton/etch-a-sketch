@@ -1,4 +1,4 @@
-#titre Etch a Sketch
+ Etch a Sketch #titre
 
 Un exercice pour manipuler le DOM 
 
